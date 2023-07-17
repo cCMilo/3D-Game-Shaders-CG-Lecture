@@ -4,6 +4,5 @@
 
 - [[1]Triangle 2D](Basic%20WebGL%20Exercises%2F%5B1%5DTriangle%202D)
 
-  ![img.png](img.png)
-
-- 
+  ![triangle.png](img%2Ftriangle.png)
+  ![rectangle.png](img%2Frectangle.png)
