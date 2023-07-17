@@ -6,3 +6,7 @@
 
   ![triangle.png](img%2Ftriangle.png)
   ![rectangle.png](img%2Frectangle.png)
+
+
+- [[2]Cube 3D](Basic%20WebGL%20Exercises%2F%5B2%5DCube%203D)
+  ![img.png](img/img.png)

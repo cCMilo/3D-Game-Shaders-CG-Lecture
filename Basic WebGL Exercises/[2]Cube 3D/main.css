@@ -1,0 +1,12 @@
+#mycanvas {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    display: block;
+    border: 2px solid black;
+    background-color: black;
+}
+
+video {
+    display: none;
+}
