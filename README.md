@@ -15,5 +15,6 @@
 
 <img src="img/rotatingcube.png" width="270" height="250"/>
 
-<video src='vid/[3]Camera transformation.mp4' width="270" height="250"></video>
+<video src="vid/camTransform.gif" width="270" height="250"/>
 
+![camTransform.gif](vid%2FcamTransform.gif)
