@@ -13,11 +13,6 @@
 
 - [[3]Camera transformation 3D](Basic%20WebGL%20Exercises%2F%5B3%5DCamera%20transformation%203D)
 
-<img src="img/rotatingcube.png" width="270" height="250"/>
+![camTransform 1.gif](vid%2FcamTransform%201.gif)
 
 
-
-![camTransform.gif](vid%2FcamTransform.gif)
-
-
-<video src="vid/camTransform.gif" width="270" height="250"/>
