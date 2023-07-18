@@ -15,4 +15,6 @@
 
 ![camTransform 1.gif](vid%2FcamTransform%201.gif)
 
+- [[4]Texturing](Basic%20WebGL%20Exercises%2F%5B4%5DTexturing)
 
+![texturing.gif](vid%2Ftexturing.gif)

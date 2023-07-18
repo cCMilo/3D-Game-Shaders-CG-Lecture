@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>[2] Cube 3D</title>
+
+    <link rel="stylesheet" href="main.css" type="text/css"/>
+
+    <!-- Matrix utility operation library  https://glmatrix.net/ -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gl-matrix/2.8.1/gl-matrix-min.js"
+            integrity="sha512-zhHQR0/H5SEBL3Wn6yYSaTTZej12z0hVZKOv3TwCUXT1z5qeqGcXJLLrbERYRScEDDpYIJhPC1fk31gqR783iQ=="
+            crossorigin="anonymous"
+            defer
+    ></script>
+
+    <script src="utils.js" defer></script>
+    <script src="app.js" defer></script>
+    <!-- defer = specifies that the script is downloaded in parallel to parsing the page, and executed after the page has finished parsing. -->
+
+</head>
+
+<body onload=Main();>
+<canvas id="mycanvas" width="800" height="600"></canvas>
+</body>
+</html>

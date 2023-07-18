@@ -15,9 +15,9 @@ function Run(vs_source, fs_source) {
   // We can update the contents of the vertex buffer objects anytime.
   // We do NOT need to create them again.
 
-  var positions = [-1, 0, 0, 1, 0, 0, 0, 1, 0];
+  var positions = [-1, 0, 0, 1, 0, 0, 0, 1, 0]; // TODO
 
-  var colors = [1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1];
+  var colors = [1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1]; // TODO
 
   var position_buffer = gl.createBuffer();
 
@@ -101,7 +101,7 @@ function Run(vs_source, fs_source) {
   // Every time the scene changes, we must render again.
 
   gl.clear(gl.COLOR_BUFFER_BIT);
-  gl.drawArrays(gl.TRIANGLES, 0, 3);
+  gl.drawArrays(gl.TRIANGLES, 0, 3); //TODO
 }
 
 var Main = function () {
